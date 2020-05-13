@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>KeLuoPlatform.API</AssemblyName>
+    <RootNamespace>KeLuoPlatform.API.1</RootNamespace>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Common\Configuration.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common\KeLuoPlatform.Common.csproj" />
+    <ProjectReference Include="..\KeLuoPlatform.Service\KeLuoPlatform.Service.csproj" />
+  </ItemGroup>
+
+</Project>

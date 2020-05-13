@@ -1,0 +1,13 @@
+C:\lin\医疗\code\KeLuoPlatform\KeLuoPlatform.Service\bin\Debug\netcoreapp2.1\Log\NLog.config
+C:\lin\医疗\code\KeLuoPlatform\KeLuoPlatform.Service\bin\Debug\netcoreapp2.1\KeLuoPlatform.Service.deps.json
+C:\lin\医疗\code\KeLuoPlatform\KeLuoPlatform.Service\bin\Debug\netcoreapp2.1\KeLuoPlatform.Service.dll
+C:\lin\医疗\code\KeLuoPlatform\KeLuoPlatform.Service\bin\Debug\netcoreapp2.1\KeLuoPlatform.Service.pdb
+C:\lin\医疗\code\KeLuoPlatform\KeLuoPlatform.Service\bin\Debug\netcoreapp2.1\KeLuoPlatform.Common.dll
+C:\lin\医疗\code\KeLuoPlatform\KeLuoPlatform.Service\bin\Debug\netcoreapp2.1\KeLuoPlatform.Common.pdb
+C:\lin\医疗\code\KeLuoPlatform\KeLuoPlatform.Service\obj\Debug\netcoreapp2.1\KeLuoPlatform.Service.csprojAssemblyReference.cache
+C:\lin\医疗\code\KeLuoPlatform\KeLuoPlatform.Service\obj\Debug\netcoreapp2.1\KeLuoPlatform.Service.csproj.CoreCompileInputs.cache
+C:\lin\医疗\code\KeLuoPlatform\KeLuoPlatform.Service\obj\Debug\netcoreapp2.1\KeLuoPlatform.Service.AssemblyInfoInputs.cache
+C:\lin\医疗\code\KeLuoPlatform\KeLuoPlatform.Service\obj\Debug\netcoreapp2.1\KeLuoPlatform.Service.AssemblyInfo.cs
+C:\lin\医疗\code\KeLuoPlatform\KeLuoPlatform.Service\obj\Debug\netcoreapp2.1\KeLuoPlatform.Service.csproj.CopyComplete
+C:\lin\医疗\code\KeLuoPlatform\KeLuoPlatform.Service\obj\Debug\netcoreapp2.1\KeLuoPlatform.Service.dll
+C:\lin\医疗\code\KeLuoPlatform\KeLuoPlatform.Service\obj\Debug\netcoreapp2.1\KeLuoPlatform.Service.pdb

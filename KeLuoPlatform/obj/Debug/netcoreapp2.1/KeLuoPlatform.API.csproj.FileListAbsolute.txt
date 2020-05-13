@@ -1,4 +1,3 @@
-C:\lin\医疗\code\KeLuoPlatform\KeLuoPlatform\bin\Debug\netcoreapp2.1\Log\NLog.config
 C:\lin\医疗\code\KeLuoPlatform\KeLuoPlatform\bin\Debug\netcoreapp2.1\KeLuoPlatform.API.deps.json
 C:\lin\医疗\code\KeLuoPlatform\KeLuoPlatform\bin\Debug\netcoreapp2.1\KeLuoPlatform.API.runtimeconfig.json
 C:\lin\医疗\code\KeLuoPlatform\KeLuoPlatform\bin\Debug\netcoreapp2.1\KeLuoPlatform.API.runtimeconfig.dev.json
@@ -18,3 +17,4 @@ C:\lin\医疗\code\KeLuoPlatform\KeLuoPlatform\obj\Debug\netcoreapp2.1\KeLuoPlat
 C:\lin\医疗\code\KeLuoPlatform\KeLuoPlatform\obj\Debug\netcoreapp2.1\KeLuoPlatform.API.csproj.CopyComplete
 C:\lin\医疗\code\KeLuoPlatform\KeLuoPlatform\obj\Debug\netcoreapp2.1\KeLuoPlatform.API.dll
 C:\lin\医疗\code\KeLuoPlatform\KeLuoPlatform\obj\Debug\netcoreapp2.1\KeLuoPlatform.API.pdb
+C:\lin\医疗\code\KeLuoPlatform\KeLuoPlatform\bin\Debug\netcoreapp2.1\Log\NLog.config

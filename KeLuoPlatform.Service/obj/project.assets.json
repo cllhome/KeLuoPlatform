@@ -5692,8 +5692,8 @@
     },
     "KeLuoPlatform.Common/1.0.0": {
       "type": "project",
-      "path": "../Common/KeLuoPlatform.Common.csproj",
-      "msbuildProject": "../Common/KeLuoPlatform.Common.csproj"
+      "path": "../KeLuoPlatform.Common/KeLuoPlatform.Common.csproj",
+      "msbuildProject": "../KeLuoPlatform.Common/KeLuoPlatform.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5733,8 +5733,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\lin\\医疗\\code\\KeLuoPlatform\\Common\\KeLuoPlatform.Common.csproj": {
-              "projectPath": "C:\\lin\\医疗\\code\\KeLuoPlatform\\Common\\KeLuoPlatform.Common.csproj"
+            "C:\\lin\\医疗\\code\\KeLuoPlatform\\KeLuoPlatform.Common\\KeLuoPlatform.Common.csproj": {
+              "projectPath": "C:\\lin\\医疗\\code\\KeLuoPlatform\\KeLuoPlatform.Common\\KeLuoPlatform.Common.csproj"
             }
           }
         }

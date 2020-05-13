@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Common\KeLuoPlatform.Common.csproj" />
+    <ProjectReference Include="..\KeLuoPlatform.Common\KeLuoPlatform.Common.csproj" />
   </ItemGroup>
 
 </Project>

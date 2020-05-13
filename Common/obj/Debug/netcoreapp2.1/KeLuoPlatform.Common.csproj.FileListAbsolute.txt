@@ -1,9 +1,0 @@
-C:\lin\医疗\code\KeLuoPlatform\Common\bin\Debug\netcoreapp2.1\Log\NLog.config
-C:\lin\医疗\code\KeLuoPlatform\Common\bin\Debug\netcoreapp2.1\KeLuoPlatform.Common.deps.json
-C:\lin\医疗\code\KeLuoPlatform\Common\bin\Debug\netcoreapp2.1\KeLuoPlatform.Common.dll
-C:\lin\医疗\code\KeLuoPlatform\Common\bin\Debug\netcoreapp2.1\KeLuoPlatform.Common.pdb
-C:\lin\医疗\code\KeLuoPlatform\Common\obj\Debug\netcoreapp2.1\KeLuoPlatform.Common.csproj.CoreCompileInputs.cache
-C:\lin\医疗\code\KeLuoPlatform\Common\obj\Debug\netcoreapp2.1\KeLuoPlatform.Common.AssemblyInfoInputs.cache
-C:\lin\医疗\code\KeLuoPlatform\Common\obj\Debug\netcoreapp2.1\KeLuoPlatform.Common.AssemblyInfo.cs
-C:\lin\医疗\code\KeLuoPlatform\Common\obj\Debug\netcoreapp2.1\KeLuoPlatform.Common.dll
-C:\lin\医疗\code\KeLuoPlatform\Common\obj\Debug\netcoreapp2.1\KeLuoPlatform.Common.pdb
